@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Praveen</h1>
-- 🔭 I’m currently working on [netflix](https://github.com/PraveenRoyce/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL)
+# 👋 Hi there! I'm [Your Name]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 Top Data Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [Optimizing Global Electronics Retail](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python) | Analysis using Python, SQL, and Excel to examine revenue, customer demographics, and profit drivers. | ![Python](https://img.shields.io/badge/-Python-blue) ![SQL](https://img.shields.io/badge/-SQL-orange) |
+| [Adidas Sales Analysis](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python) | Analyzed sales performance and performed ETL from Python to SQL. | ![Python](https://img.shields.io/badge/-Python-blue) |
+| [Sales Performance Dashboard](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python) | Interactive Tableau dashboards for comprehensive insights. | ![Tableau](https://img.shields.io/badge/-Tableau-blueviolet) |
+| [Maven's Pizza Sales Insights](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python) | Analyzing sales trends and customer behavior using SQL. | ![SQL](https://img.shields.io/badge/-SQL-orange) |
