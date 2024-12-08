@@ -16,11 +16,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider">
 </p>
 
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="50px" alt="wave"> 
-  <span style="font-size: 2em; color: #FFA500;">🛠️ Skills</span>
-</h1>
-
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,7 +45,7 @@
 
 
 
-## My Projects
+## 🚀 My Projects
  [![Walmart Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Walmart-Sales-Analysis&border_color=1E90FF&bg_color=0C2B4D&title_color=FFFFFF&text_color=E1EFFF&icon_color=1E90FF&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Walmart-Sales-Analysis)
 [![Netflix Movies and TV Shows Data Analysis using SQL](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL&border_color=4682B4&bg_color=1C2C4F&title_color=FFFFFF&text_color=F1F7FB&icon_color=4682B4&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL)
 [![Credit Card Customer Report Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Credit-Card-Customer-Report-Dashboard&border_color=ADD8E6&bg_color=1C2C4F&title_color=FFFFFF&text_color=E0F5F9&icon_color=ADD8E6&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Credit-Card-Customer-Report-Dashboard)
