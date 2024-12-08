@@ -19,12 +19,12 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-<br/>
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveensharrma/)
 
-<br/>
+
 
 ## My Projects
  [![Walmart Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Walmart-Sales-Analysis&border_color=1E90FF&bg_color=0C2B4D&title_color=FFFFFF&text_color=E1EFFF&icon_color=1E90FF&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Walmart-Sales-Analysis)
