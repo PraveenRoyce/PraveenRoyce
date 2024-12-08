@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/583231/94827090-8edec580-03a2-11eb-9ac6-c3d0e8e5f84e.gif" width="80%" alt="Cool Divider">
 </p>
+
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
