@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Praveen </h1>
+![git (1)](https://github.com/user-attachments/assets/0ac37290-89a2-4cfd-b70b-a8f2953559f9)
+
+
 
 ## 🛠️ Skills
 
