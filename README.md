@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Praveen </h1>
 
-![git](https://github.com/user-attachments/assets/c1b4ebbd-55e0-4776-8c61-08abf2715a36)
+
 
 
 <!--
@@ -18,11 +18,7 @@
 
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
-        </samp>
-</h3>
+
 
 
 <p align="center"> 
