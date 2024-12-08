@@ -102,28 +102,12 @@
 <br/>
 
 ## My Projects
-[![Walmart Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Walmart-Sales-Analysis&border_color=1E90FF&bg_color=0C2B4D&title_color=FFFFFF&text_color=E1EFFF&icon_color=1E90FF&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Walmart-Sales-Analysis)
-[![Netflix Movies and TV Shows Data Analysis using SQL](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL&border_color=4682B4&bg_color=1C2C4F&title_color=FFFFFF&text_color=F1F7FB&icon_color=4682B4&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL)
-[![Airbnb Listings EDA Project New York 2024](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Airbnb-Listings-EDA-Project-New-York-2024&border_color=5F9EA0&bg_color=1A2E44&title_color=FFFFFF&text_color=F1F7FB&icon_color=5F9EA0&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Airbnb-Listings-EDA-Project-New-York-2024)
-[![Spotify Dashboard with Excel](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Spotify-Dashboard-with-Excel&border_color=87CEEB&bg_color=213B54&title_color=FFFFFF&text_color=E0F2F7&icon_color=87CEEB&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Spotify-Dashboard-with-Excel)
-[![BellaBeat Exploratory Data Analysis with Python](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=BellaBeat-Exploratory-Data-Analysis-with-Python&border_color=B0E0E6&bg_color=1B3044&title_color=FFFFFF&text_color=F2F2F2&icon_color=B0E0E6&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python)
-[![Credit Card Customer Report Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Credit-Card-Customer-Report-Dashboard&border_color=ADD8E6&bg_color=1C2C4F&title_color=FFFFFF&text_color=E0F5F9&icon_color=ADD8E6&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Credit-Card-Customer-Report-Dashboard)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Walmart Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Walmart-Sales-Analysis&border_color=1E90FF&bg_color=4B0082&title_color=FFFFFF&text_color=E1EFFF&icon_color=1E90FF&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Walmart-Sales-Analysis)
+[![Netflix Movies and TV Shows Data Analysis using SQL](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL&border_color=4682B4&bg_color=4B9F7F&title_color=FFFFFF&text_color=F1F7FB&icon_color=4682B4&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL)
+[![Airbnb Listings EDA Project New York 2024](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Airbnb-Listings-EDA-Project-New-York-2024&border_color=5F9EA0&bg_color=3C91A3&title_color=FFFFFF&text_color=F1F7FB&icon_color=5F9EA0&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Airbnb-Listings-EDA-Project-New-York-2024)
+[![Spotify Dashboard with Excel](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Spotify-Dashboard-with-Excel&border_color=87CEEB&bg_color=4F92B5&title_color=FFFFFF&text_color=E0F2F7&icon_color=87CEEB&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Spotify-Dashboard-with-Excel)
+[![BellaBeat Exploratory Data Analysis with Python](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=BellaBeat-Exploratory-Data-Analysis-with-Python&border_color=B0E0E6&bg_color=3A8C91&title_color=FFFFFF&text_color=F2F2F2&icon_color=B0E0E6&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python)
+[![Credit Card Customer Report Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Credit-Card-Customer-Report-Dashboard&border_color=ADD8E6&bg_color=3C6F99&title_color=FFFFFF&text_color=E0F5F9&icon_color=ADD8E6&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Credit-Card-Customer-Report-Dashboard)
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
