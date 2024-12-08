@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Praveen </h1>
 
-![git (1)](https://github.com/user-attachments/assets/ff63094c-8a3a-4b01-bb73-4326b92097cd)
+
+![git](https://github.com/user-attachments/assets/f2c003c0-5952-40fe-b78a-0dd69a69f3d3)
 
 
 
