@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+SQL+%7C+Python;Cloud+Explorer+%7C+AWS+%7C+Azure;Turning+Data+into+Insights!" alt="Typing SVG">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/---%20%F0%9F%92%A5%20-%20-%20-%20---?style=flat&color=FFD700" width="100%" alt="Golden Divider">
+</p>
+
 
 ## 🛠️ Skills
 
@@ -25,9 +29,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/583231/94827090-8edec580-03a2-11eb-9ac6-c3d0e8e5f84e.gif" width="80%" alt="Cool Divider">
-</p>
 
 ## 🌐 Connect with Me
 
