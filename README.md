@@ -11,8 +11,9 @@
 
 ![ez](https://github.com/user-attachments/assets/4a9ac042-a06d-44bc-8fae-f816f500dbb0)
 
+<!-- Cool Divider -->
 <p align="center">
-  <hr style="border: none; height: 2px; background: linear-gradient(to right, #0000FF, #8A2BE2); width: 100%;"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider">
 </p>
 
 
