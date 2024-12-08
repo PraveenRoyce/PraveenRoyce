@@ -1,7 +1,6 @@
-
-![111-1733649605649](https://github.com/user-attachments/assets/18bdfc7b-8c46-4a0a-a7ae-89444d46274d)
-
 <h1 align="center">Hi👋, I'm Praveen </h1>
+![git](https://github.com/user-attachments/assets/c4755f27-9529-42f2-860f-a674e00740bb)
+
 
 <!--
 <p align="center">
