@@ -12,8 +12,9 @@
 ![ez](https://github.com/user-attachments/assets/4a9ac042-a06d-44bc-8fae-f816f500dbb0)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x2/0000FF/8A2BE2?text=%20" alt="gradient divider" />
+  <hr style="border: none; height: 2px; background: linear-gradient(to right, #0000FF, #8A2BE2); width: 100%;"/>
 </p>
+
 
 
 ## 🛠️ Skills
