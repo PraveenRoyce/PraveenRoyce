@@ -101,7 +101,7 @@
 
 <br/>
 
-## Top Open Source -
+## My Projects
 [![Credit Card Customer Report Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Credit-Card-Customer-Report-Dashboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Credit-Card-Customer-Report-Dashboard)
 [![Walmart Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Walmart-Sales-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Walmart-Sales-Analysis)
 [![Airbnb Listings EDA Project New York 2024](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Airbnb-Listings-EDA-Project-New-York-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Airbnb-Listings-EDA-Project-New-York-2024)
