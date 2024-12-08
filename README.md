@@ -107,7 +107,8 @@
 [![Airbnb Listings EDA Project New York 2024](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Airbnb-Listings-EDA-Project-New-York-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Airbnb-Listings-EDA-Project-New-York-2024)
 [![Netflix Movies and TV Shows Data Analysis using SQL](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL)
 [![Spotify Dashboard with Excel](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Spotify-Dashboard-with-Excel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Spotify-Dashboard-with-Excel)
-[![BellaBeat Exploratory Data Analysis with Python](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=BellaBeat-Exploratory-Data-Analysis-with-Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python)
+[![BellaBeat Exploratory Data Analysis with Python](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=BellaBeat-Exploratory-Data-Analysis-with-Python&border_color=3B6A84&bg_color=1F3A48&title_color=56CCF2&text_color=F2F2F2&icon_color=6FCF97)](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python)
+
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
