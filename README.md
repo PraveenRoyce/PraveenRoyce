@@ -1,9 +1,6 @@
 
-<h1 align="center">Hi
 
-https://github.com/user-attachments/assets/09c811d9-c8f4-4d7c-8380-049b1fc7bf6e
-
- 👋, I'm Praveen </h1>
+<h1 align="center">Hi👋, I'm Praveen </h1>
 
 <!--
 <p align="center">
