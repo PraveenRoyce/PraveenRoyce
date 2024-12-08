@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif" width="100%" alt="Header Banner">
-</p>
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="50px" alt="wave"> 
+  Hi there! I'm <span style="color:#FFA500;">Praveen</span>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+SQL+%7C+Python;Cloud+Explorer+%7C+AWS+%7C+Azure;Turning+Data+into+Insights!" alt="Typing SVG">
