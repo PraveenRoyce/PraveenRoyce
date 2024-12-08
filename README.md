@@ -1,4 +1,12 @@
-<h1 align="center">👋 Hi there! I'm Praveen </h1>
+<h1 align="center">
+  <img src="https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif" width="50px" alt="wave"> 
+  Hi there! I'm Praveen
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+SQL+%7C+Python;Cloud+Explorer+%7C+AWS+%7C+Azure;Turning+Data+into+Insights!" alt="Typing SVG">
+</p>
+
 
 ![ez](https://github.com/user-attachments/assets/76e98fd5-71fa-4fdd-ac8a-6dfecefeb22e)
 
