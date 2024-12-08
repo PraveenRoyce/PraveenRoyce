@@ -12,7 +12,10 @@
 ![ez](https://github.com/user-attachments/assets/4a9ac042-a06d-44bc-8fae-f816f500dbb0)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AvraamMavridis/AvraamMavridis/master/assets/gradient.svg" width="100%" height="4px" />
+  <img src="https://via.placeholder.com/800x2/ff7b00/ff7b00?text=%20" alt="divider" />
+</p>
+<p align="center">
+  <img src="https://via.placeholder.com/800x2/4e73df/4e73df?text=%20" alt="gradient divider" />
 </p>
 
 ## 🛠️ Skills
