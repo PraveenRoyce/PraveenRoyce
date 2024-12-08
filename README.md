@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+SQL+%7C+Python;Cloud+Explorer+%7C+AWS+%7C+Azure;Turning+Data+into+Insights!" alt="Typing SVG">
 </p>
 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharrmapraveen@gmail.com)
+
 ![ez](https://github.com/user-attachments/assets/4a9ac042-a06d-44bc-8fae-f816f500dbb0)
 
 
