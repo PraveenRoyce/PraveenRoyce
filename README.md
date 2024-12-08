@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+SQL+%7C+Python;Cloud+Explorer+%7C+AWS+%7C+Azure;Turning+Data+into+Insights!" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/---%20%F0%9F%92%A5%20-%20-%20-%20---?style=flat&color=FFD700" width="100%" alt="Golden Divider">
-</p>
 
 
 ## 🛠️ Skills
