@@ -1,7 +1,7 @@
 
 ![ez](https://github.com/user-attachments/assets/9f9ca9ee-3823-41a8-8499-8fff3ed20cd9)
 <h1 align="center">👋 Hi there! I'm Praveen </h1>
-
+<br/>
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,6 +19,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+<br/>
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveensharrma/)
