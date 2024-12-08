@@ -16,7 +16,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider">
 </p>
 
-
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="50px" alt="wave"> 
+  <span style="font-size: 2em; color: #FFA500;">🛠️ Skills</span>
+</h1>
 
 ## 🛠️ Skills
 
