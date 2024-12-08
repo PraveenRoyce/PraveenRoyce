@@ -1,3 +1,4 @@
+![cool](https://github.com/user-attachments/assets/555bf2ae-2494-4238-a73e-3b7b62719040)
 <h1 align="center">👋 Hi there! I'm Praveen </h1>
 
 ## 🛠️ Skills
@@ -31,7 +32,7 @@
 [![Airbnb Listings EDA Project New York 2024](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Airbnb-Listings-EDA-Project-New-York-2024&border_color=5F9EA0&bg_color=1A2E44&title_color=FFFFFF&text_color=F1F7FB&icon_color=5F9EA0&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Airbnb-Listings-EDA-Project-New-York-2024)
 [![BellaBeat Exploratory Data Analysis with Python](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=BellaBeat-Exploratory-Data-Analysis-with-Python&border_color=B0E0E6&bg_color=1B3044&title_color=FFFFFF&text_color=F2F2F2&icon_color=B0E0E6&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python)
 
-![git](https://github.com/user-attachments/assets/f2c003c0-5952-40fe-b78a-0dd69a69f3d3)
+
 
 
 
