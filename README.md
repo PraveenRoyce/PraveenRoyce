@@ -33,7 +33,5 @@
 [![BellaBeat Exploratory Data Analysis with Python](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=BellaBeat-Exploratory-Data-Analysis-with-Python&border_color=B0E0E6&bg_color=1B3044&title_color=FFFFFF&text_color=F2F2F2&icon_color=B0E0E6&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python)
 
 
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+
 
