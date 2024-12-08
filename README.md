@@ -1,6 +1,6 @@
 
-![ez](https://github.com/user-attachments/assets/9f9ca9ee-3823-41a8-8499-8fff3ed20cd9)
 <h1 align="center">👋 Hi there! I'm Praveen </h1>
+![ez](https://github.com/user-attachments/assets/9f9ca9ee-3823-41a8-8499-8fff3ed20cd9)
 
 ## 🛠️ Skills
 
