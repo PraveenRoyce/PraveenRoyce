@@ -54,6 +54,24 @@
 [![Airbnb Listings EDA Project New York 2024](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Airbnb-Listings-EDA-Project-New-York-2024&border_color=5F9EA0&bg_color=1A2E44&title_color=FFFFFF&text_color=F1F7FB&icon_color=5F9EA0&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/Airbnb-Listings-EDA-Project-New-York-2024)
 [![BellaBeat Exploratory Data Analysis with Python](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=BellaBeat-Exploratory-Data-Analysis-with-Python&border_color=B0E0E6&bg_color=1B3044&title_color=FFFFFF&text_color=F2F2F2&icon_color=B0E0E6&border_radius=12&shadow=2px%202px%202px%20rgba(0,0,0,0.1))](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python)
 
+<p align="center">
+  <a href="https://github.com/PraveenRoyce">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenRoyce&theme=radical&border=7F3FBF&background=0D1117" alt="PraveenRoyce's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PraveenRoyce">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenRoyce&theme=radical" alt="PraveenRoyce's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/PraveenRoyce"><img alt="PraveenRoyce's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=PraveenRoyce&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/PraveenRoyce"><img alt="PraveenRoyce's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PraveenRoyce&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 
 
 
