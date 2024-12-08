@@ -1,7 +1,7 @@
 
 ![ez](https://github.com/user-attachments/assets/9f9ca9ee-3823-41a8-8499-8fff3ed20cd9)
 <h1 align="center">👋 Hi there! I'm Praveen </h1>
-
+<br/>
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
