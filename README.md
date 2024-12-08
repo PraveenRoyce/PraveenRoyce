@@ -66,10 +66,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/PraveenRoyce">
-    <img alt="PraveenRoyce's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PraveenRoyce&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlyndiary&layout=compact&theme=blueberry&border_color=1E3A8A&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)
+
 </p>
 
 
