@@ -103,10 +103,11 @@
 
 ## Top Open Source -
 [![Credit Card Customer Report Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Credit-Card-Customer-Report-Dashboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Credit-Card-Customer-Report-Dashboard)
-
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+[![Walmart Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Walmart-Sales-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Walmart-Sales-Analysis)
+[![Airbnb Listings EDA Project New York 2024](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Airbnb-Listings-EDA-Project-New-York-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Airbnb-Listings-EDA-Project-New-York-2024)
+[![Netflix Movies and TV Shows Data Analysis using SQL](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL)
+[![Spotify Dashboard with Excel](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=Spotify-Dashboard-with-Excel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/Spotify-Dashboard-with-Excel)
+[![BellaBeat Exploratory Data Analysis with Python](https://github-readme-stats.vercel.app/api/pin/?username=PraveenRoyce&repo=BellaBeat-Exploratory-Data-Analysis-with-Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PraveenRoyce/BellaBeat-Exploratory-Data-Analysis-with-Python)
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
