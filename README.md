@@ -8,9 +8,6 @@
 </p>
 
 
-
-![ez](https://github.com/user-attachments/assets/4a9ac042-a06d-44bc-8fae-f816f500dbb0)
-
 <!-- Cool Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider">
